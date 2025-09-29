@@ -1,6 +1,6 @@
 # Ola Ride Insights 🚖📊
 
-https://github.com/ChamaKaushik/OLA_Ride_Insights---SQL_Power-BI/blob/main/Picture1.png
+![]https://github.com/ChamaKaushik/OLA_Ride_Insights---SQL_Power-BI/blob/main/Picture1.png
 
 ## 📌 Project Overview
 
