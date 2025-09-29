@@ -1,7 +1,5 @@
 # Ola Ride Insights 🚖📊
 
-![]https://github.com/ChamaKaushik/OLA_Ride_Insights---SQL_Power-BI/blob/main/Picture1.png
-
 ## 📌 Project Overview
 
 The Ola Ride Insights project focuses on analyzing ride-sharing data from Ola to uncover meaningful business insights. Using SQL for querying and Power BI for visualization, the project highlights booking trends, cancellations, customer ratings, revenue distribution, and more.
