@@ -69,6 +69,7 @@ Key visualizations built in Power BI:
 ## 📎 Project Files
 
 📄 SQL Queries.sql – SQL scripts for insights.
+
 📊 OLA_Dashboard.pbix – Power BI dashboard export.
 
 ## 🔖 Tags
