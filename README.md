@@ -22,7 +22,7 @@ Ride-hailing platforms like Ola generate vast amounts of booking data. However, 
 
 📂 Dataset
 
-- Dataset: OLA PROJECT (ride booking records).
+- Dataset: OLA_Dataset (ride booking records).
 - Key columns: booking_id, customer_id, vehicle_type, booking_status, payment_method, ride_distance, booking_value, customer_rating, driver_rating.
 
 ## 📝 SQL Insights
@@ -50,7 +50,7 @@ Key visualizations built in Power BI:
 - **Ratings** – Customer vs Driver ratings comparison.
 - **Cancellation Reasons** – Customer-related vs driver-related.
 
-(See detailed dashboards in OLA_Dashboard.pdf)
+(See detailed dashboards in OLA_Dashboard.pbix)
 
 ## 🚀 Business Use Cases
 
@@ -69,7 +69,7 @@ Key visualizations built in Power BI:
 ## 📎 Project Files
 
 📄 SQL Queries.sql – SQL scripts for insights.
-📊 OLA_Dashboard.pdf – Power BI dashboard export.
+📊 OLA_Dashboard.pbix – Power BI dashboard export.
 
 ## 🔖 Tags
 
