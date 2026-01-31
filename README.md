@@ -37,7 +37,7 @@ Sample queries written in SQL include:
 7. Calculate total booking value of successful rides.
 8. List incomplete rides with reasons.
    
-#### 📄SQL File: [View Queries](https://github.com/ChamaKaushik/Apple_iTunes_Music_Analysis_SQL_Power-BI/blob/main/15%20SQL%20Queries%20Solutions.sql)
+#### 📄SQL File: [View Queries](https://github.com/ChamaKaushik/OLA_Ride_Insights---SQL_Power-BI/blob/main/SQL%20Queries.sql)
 
 ## 📊 Power BI Dashboards
 
