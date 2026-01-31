@@ -36,8 +36,8 @@ Sample queries written in SQL include:
 6. Retrieve rides paid via UPI.
 7. Calculate total booking value of successful rides.
 8. List incomplete rides with reasons.
-
-(See full SQL queries in SQL Queries.sql)
+   
+#### 📄SQL File: [View Queries](https://github.com/ChamaKaushik/Apple_iTunes_Music_Analysis_SQL_Power-BI/blob/main/15%20SQL%20Queries%20Solutions.sql)
 
 ## 📊 Power BI Dashboards
 
