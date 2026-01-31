@@ -50,7 +50,7 @@ Key visualizations built in Power BI:
 - **Ratings** – Customer vs Driver ratings comparison.
 - **Cancellation Reasons** – Customer-related vs driver-related.
 
-(See detailed dashboards in https://github.com/ChamaKaushik/OLA_Ride_Insights---SQL_Power-BI/blob/main/OLA_Dashboard.pdf)
+#### 📄Dashboard Preview: [View Dashboard PDF](https://github.com/ChamaKaushik/OLA_Ride_Insights---SQL_Power-BI/blob/main/OLA_Dashboard.pdf)
 
 ## 🚀 Business Use Cases
 
